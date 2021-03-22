@@ -1,10 +1,10 @@
-Johnny Coder
-============
+Prasanna Raj Mallipudi
+======================
 
 -------------------     ----------------------------
-1 MyAddress                        email@example.com
-MyTown 1000                          @twitter_handle
-MyCountry                           1800 my-phone-nr
+Rool No                       2422
+Email Id                      raz@gmail.com
+Phone                         XXXXXXXXXX
 -------------------     ----------------------------
 
 Education
@@ -75,26 +75,17 @@ Programming Languages
 :   **obscure-but-impressive-lang:** We both know this one's pushing
     it.
 
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
+:   Basic knowledge of **C**, **Python**, **Machine Learning**, **GIT & GITHUB**, **Django FrameWork**
 
-[ref]: https://github.com/githubuser/superlongprojectname
+
 
 Extra Section, Call it Whatever You Want
 ----------------------------------------
 
 * Human Languages:
 
-     * English (native speaker)
-     * ???
+     * Telugu (native speaker)
+     * English
      * This is what a nested list looks like.
 
-* Random tidbit
 
-* Other sort of impressive-sounding thing you did
-
-
-
-
-
-
-https://gist.githubusercontent.com/mszep/d3235240cc6653d6eeaa/raw/5904b5dc0e19b983fab48b1398057b707dd6d696/resume
